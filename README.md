@@ -2,6 +2,8 @@
 
 **StudioLoc** est une application de bureau développée en C# (Windows Forms) permettant de gérer efficacement la location de studios de vacances. 
 
+---
+
 ## 🚀 Fonctionnalités
 
 L'application offre une interface complète pour :
@@ -10,12 +12,16 @@ L'application offre une interface complète pour :
 * **Système d'Authentification** : Accès sécurisé via un formulaire de connexion (Login).
 * **Interface Intuitive** : Navigation facilitée via un tableau de bord principal (MainForm).
 
-## 🛠️ Technologies utilisées
+---
+
+## 🛠️ Stack Technique
 
 * **Langage** : C#
 * **Framework** : .NET (Windows Forms)
 * **Architecture** : Modèle orienté objet avec séparation des dossiers (`Models`, `Services`).
 * **Gestionnaire de dépendances** : NuGet
+
+---
 
 ## 📂 Structure du Projet
 
@@ -23,3 +29,5 @@ L'application offre une interface complète pour :
 * `Services/` : Logique métier et accès aux données.
 * `Properties/` : Fichiers de configuration du projet.
 * `Forms` (Vue) : Contient tous les formulaires utilisateur (Login, Main, Add/Edit).
+
+---

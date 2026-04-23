@@ -1,0 +1,12 @@
+# Fichiers de build et dossiers temporaires
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Fichiers utilisateur Visual Studio
+*.user
+*.userosscache
+*.sln.docstates
+
+# Packages NuGet
+packages/
